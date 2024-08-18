@@ -1,4 +1,4 @@
-Engineering Science Student (specializing hopefulling in Electrical and Computer Engineering) at the University of Toronto St. George.
+Engineering Science Student specializing (hopefully) in Electrical and Computer Engineering at the University of Toronto St. George.
 
 <!--
 <p align="center">
